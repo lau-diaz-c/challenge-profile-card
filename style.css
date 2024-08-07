@@ -58,9 +58,6 @@
 
 #buttons {
   margin-top: 15px;
-  display: flex;
-  justify-content: space-between;
-  width: 70%;
 }
 
 #follow {
@@ -68,9 +65,11 @@
   color: white;
   border-radius: 30px;
   padding: 5px 40px;
+  margin-right: 10px;
 }
 
 #message {
   border-radius: 30px;
   padding: 5px 40px;
+  margin-left: 10px;
 }
